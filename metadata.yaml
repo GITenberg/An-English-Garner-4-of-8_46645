@@ -1,0 +1,32 @@
+_repo: An-English-Garner-4-of-8_46645
+contributor:
+  creator:
+    editor:
+      agent_name: Arber, Edward
+      birthdate: 1836
+      deathdate: 1912
+      gutenberg_agent_id: '3122'
+      url: http://www.gutenberg.org/2009/agents/3122
+      wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
+covers:
+- cover_type: archival
+  image_path: 46645/46645-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: An English Garner (4 of 8)
+url: http://www.gutenberg.org/ebooks/46645
